@@ -1,20 +1,20 @@
-#  <b>Hi everyone! I'm David </b> :ok_hand:
+<h1 align="center">Hi 👋, I'm David Suárez</h1>
+<h3 align="center">👨🏻‍💻 A passionate full-stack developer from Colombia</h3>
 
+- 🔭 I’m currently working on [Proximate Apps](http://proximateapps.mobi/)
 
-Welcome to my life! 
+- 👨‍💻 All of my projects are available at [my portfolio](https://devid-suarez.github.io/curriculum-vitae/)
 
-I'm an electronic engineer passionate about making everyone's life easier.
+- 📫 How to reach me **davidsuarezlosada@gmail.com**
 
-###  Some of my skills... :pinched_fingers:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-suarez-losada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-suarez-losada/" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<a src="https://www.java.com/es/"><img src="https://img.icons8.com/ios-glyphs/36/ffffff/java-coffee-cup-logo.png"/></a>&ensp;
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/ios/36/ffffff/javascript--v1.png"></a>&ensp;
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/ios/36/ffffff/typescript.png"></a>&ensp;
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/windows/36/ffffff/nodejs.png"></a>&ensp;&ensp;
-<a src="https://www.mysql.com/"><img src="https://img.icons8.com/ios/36/ffffff/mysql-logo.png"></a>
-
-[![Linkedin Badge](https://img.shields.io/badge/-david.suarez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-su%C3%A1rez-losada-b010239b/)](https://www.linkedin.com/in/david-su%C3%A1rez-losada-b010239b/)
 
 <!--
 **davids-co/davids-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
