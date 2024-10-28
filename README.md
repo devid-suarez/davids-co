@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Suárez</h1>
-<h3 align="center">👨🏻‍💻 A passionate full-stack developer from Colombia</h3>
+<h3 align="center">👨🏻‍💻 A passionate java developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Proximate Apps](http://proximateapps.mobi/)
+- 🔭 I’m currently working on [Mercado Libre]([http://proximateapps.mobi/](https://www.mercadolibre.com.co/institucional))
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://devid-suarez.github.io/curriculum-vitae/)
 
